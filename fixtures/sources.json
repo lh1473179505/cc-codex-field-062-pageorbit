@@ -1,0 +1,4 @@
+{
+  "api_key": "po-fixture-key-7f3a",
+  "resources": ["items", "orders", "shipments"]
+}

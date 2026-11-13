@@ -1,0 +1,372 @@
+{
+  "items": [
+    {
+      "id": "ITM-0001",
+      "sku": "SKU-0001",
+      "quantity": 11,
+      "updated_at": "2026-01-02T00:00:01Z",
+      "deleted": false
+    },
+    {
+      "id": "ITM-0002",
+      "sku": "SKU-0002",
+      "quantity": 12,
+      "updated_at": "2026-01-02T00:00:02Z",
+      "deleted": false
+    },
+    {
+      "id": "ITM-0003",
+      "sku": "SKU-0003",
+      "quantity": 99,
+      "updated_at": "2026-01-11T00:00:03Z",
+      "deleted": false
+    },
+    {
+      "id": "ITM-0004",
+      "sku": "SKU-0004",
+      "quantity": 14,
+      "updated_at": "2026-01-02T00:00:04Z",
+      "deleted": false
+    },
+    {
+      "id": "ITM-0005",
+      "sku": "SKU-0005",
+      "quantity": 15,
+      "updated_at": "2026-01-02T00:00:05Z",
+      "deleted": false
+    },
+    {
+      "id": "ITM-0006",
+      "sku": "SKU-0006",
+      "quantity": 16,
+      "updated_at": "2026-01-02T00:00:06Z",
+      "deleted": false
+    },
+    {
+      "id": "ITM-0008",
+      "sku": "SKU-0008",
+      "quantity": 18,
+      "updated_at": "2026-01-02T00:00:08Z",
+      "deleted": false
+    },
+    {
+      "id": "ITM-0009",
+      "sku": "SKU-0009",
+      "quantity": 19,
+      "updated_at": "2026-01-02T00:00:09Z",
+      "deleted": false
+    },
+    {
+      "id": "ITM-0010",
+      "sku": "SKU-0010",
+      "quantity": 20,
+      "updated_at": "2026-01-02T00:00:10Z",
+      "deleted": false
+    },
+    {
+      "id": "ITM-0011",
+      "sku": "SKU-0011",
+      "quantity": 21,
+      "updated_at": "2026-01-02T00:00:11Z",
+      "deleted": false
+    },
+    {
+      "id": "ITM-0012",
+      "sku": "SKU-0012",
+      "quantity": 22,
+      "updated_at": "2026-01-02T00:00:12Z",
+      "deleted": false
+    },
+    {
+      "id": "ITM-0013",
+      "sku": "SKU-0013",
+      "quantity": 23,
+      "updated_at": "2026-01-02T00:00:13Z",
+      "deleted": false
+    },
+    {
+      "id": "ITM-0014",
+      "sku": "SKU-0014",
+      "quantity": 24,
+      "updated_at": "2026-01-02T00:00:14Z",
+      "deleted": false
+    },
+    {
+      "id": "ITM-0015",
+      "sku": "SKU-0015",
+      "quantity": 25,
+      "updated_at": "2026-01-02T00:00:15Z",
+      "deleted": false
+    },
+    {
+      "id": "ITM-0016",
+      "sku": "SKU-0016",
+      "quantity": 26,
+      "updated_at": "2026-01-02T00:00:16Z",
+      "deleted": false
+    },
+    {
+      "id": "ITM-0017",
+      "sku": "SKU-0017",
+      "quantity": 27,
+      "updated_at": "2026-01-02T00:00:17Z",
+      "deleted": false
+    },
+    {
+      "id": "ITM-0018",
+      "sku": "SKU-0018",
+      "quantity": 28,
+      "updated_at": "2026-01-02T00:00:18Z",
+      "deleted": false
+    },
+    {
+      "id": "ITM-0019",
+      "sku": "SKU-0019",
+      "quantity": 29,
+      "updated_at": "2026-01-02T00:00:19Z",
+      "deleted": false
+    },
+    {
+      "id": "ITM-0020",
+      "sku": "SKU-0020",
+      "quantity": 30,
+      "updated_at": "2026-01-02T00:00:20Z",
+      "deleted": false
+    },
+    {
+      "id": "ITM-0021",
+      "sku": "SKU-0021",
+      "quantity": 31,
+      "updated_at": "2026-01-02T00:00:21Z",
+      "deleted": false
+    },
+    {
+      "id": "ITM-0022",
+      "sku": "SKU-0022",
+      "quantity": 32,
+      "updated_at": "2026-01-02T00:00:22Z",
+      "deleted": false
+    },
+    {
+      "id": "ITM-0023",
+      "sku": "SKU-0023",
+      "quantity": 33,
+      "updated_at": "2026-01-02T00:00:23Z",
+      "deleted": false
+    },
+    {
+      "id": "ITM-0100",
+      "sku": "SKU-0100",
+      "quantity": 4,
+      "updated_at": "2026-01-12T00:00:01Z",
+      "deleted": false
+    },
+    {
+      "id": "ITM-0007",
+      "sku": "SKU-0007",
+      "quantity": 17,
+      "updated_at": "2026-01-02T00:00:07Z",
+      "deleted": true
+    }
+  ],
+  "orders": [
+    {
+      "id": "ORD-0001",
+      "code": "C0001",
+      "status": "open",
+      "total_cents": 1000,
+      "updated_at": "2026-01-03T00:00:03Z"
+    },
+    {
+      "id": "ORD-0002",
+      "code": "C0002",
+      "status": "open",
+      "total_cents": 2000,
+      "updated_at": "2026-01-03T00:00:06Z"
+    },
+    {
+      "id": "ORD-0003",
+      "code": "C0003",
+      "status": "paid",
+      "total_cents": 3000,
+      "updated_at": "2026-01-03T00:00:09Z"
+    },
+    {
+      "id": "ORD-0004",
+      "code": "C0004",
+      "status": "cancelled",
+      "total_cents": 4000,
+      "updated_at": "2026-01-13T00:00:04Z"
+    },
+    {
+      "id": "ORD-0005",
+      "code": "C0005",
+      "status": "open",
+      "total_cents": 5000,
+      "updated_at": "2026-01-03T00:00:15Z"
+    },
+    {
+      "id": "ORD-0006",
+      "code": "C0006",
+      "status": "paid",
+      "total_cents": 6000,
+      "updated_at": "2026-01-03T00:00:18Z"
+    },
+    {
+      "id": "ORD-0007",
+      "code": "C0007",
+      "status": "open",
+      "total_cents": 7000,
+      "updated_at": "2026-01-03T00:00:21Z"
+    },
+    {
+      "id": "ORD-0008",
+      "code": "C0008",
+      "status": "open",
+      "total_cents": 8000,
+      "updated_at": "2026-01-03T00:00:24Z"
+    },
+    {
+      "id": "ORD-0009",
+      "code": "C0009",
+      "status": "paid",
+      "total_cents": 9000,
+      "updated_at": "2026-01-03T00:00:27Z"
+    },
+    {
+      "id": "ORD-0010",
+      "code": "C0010",
+      "status": "open",
+      "total_cents": 10000,
+      "updated_at": "2026-01-03T00:00:30Z"
+    },
+    {
+      "id": "ORD-0011",
+      "code": "C0011",
+      "status": "open",
+      "total_cents": 11000,
+      "updated_at": "2026-01-03T00:00:33Z"
+    },
+    {
+      "id": "ORD-0012",
+      "code": "C0012",
+      "status": "paid",
+      "total_cents": 12000,
+      "updated_at": "2026-01-03T00:00:36Z"
+    },
+    {
+      "id": "ORD-0013",
+      "code": "C0013",
+      "status": "open",
+      "total_cents": 13000,
+      "updated_at": "2026-01-03T00:00:39Z"
+    },
+    {
+      "id": "ORD-0014",
+      "code": "C0014",
+      "status": "open",
+      "total_cents": 14000,
+      "updated_at": "2026-01-03T00:00:42Z"
+    },
+    {
+      "id": "ORD-0015",
+      "code": "C0015",
+      "status": "paid",
+      "total_cents": 15000,
+      "updated_at": "2026-01-03T00:00:45Z"
+    },
+    {
+      "id": "ORD-0200",
+      "code": "C0200",
+      "status": "open",
+      "total_cents": 888,
+      "updated_at": "2026-01-13T00:00:20Z"
+    }
+  ],
+  "shipments": [
+    {
+      "id": "SHP-0001",
+      "order_id": "ORD-0002",
+      "state": "in_transit",
+      "tracking": "TRK0001",
+      "updated_at": "2026-01-04T00:00:02Z"
+    },
+    {
+      "id": "SHP-0002",
+      "order_id": "ORD-0003",
+      "state": "void",
+      "tracking": "TRK0002",
+      "updated_at": "2026-01-14T00:00:02Z"
+    },
+    {
+      "id": "SHP-0003",
+      "order_id": "ORD-0004",
+      "state": "in_transit",
+      "tracking": "TRK0003",
+      "updated_at": "2026-01-04T00:00:06Z"
+    },
+    {
+      "id": "SHP-0004",
+      "order_id": "ORD-0005",
+      "state": "delivered",
+      "tracking": "TRK0004",
+      "updated_at": "2026-01-04T00:00:08Z"
+    },
+    {
+      "id": "SHP-0005",
+      "order_id": "ORD-0006",
+      "state": "in_transit",
+      "tracking": "TRK0005",
+      "updated_at": "2026-01-04T00:00:10Z"
+    },
+    {
+      "id": "SHP-0006",
+      "order_id": "ORD-0007",
+      "state": "delivered",
+      "tracking": "TRK0006",
+      "updated_at": "2026-01-04T00:00:12Z"
+    },
+    {
+      "id": "SHP-0007",
+      "order_id": "ORD-0008",
+      "state": "in_transit",
+      "tracking": "TRK0007",
+      "updated_at": "2026-01-04T00:00:14Z"
+    },
+    {
+      "id": "SHP-0008",
+      "order_id": "ORD-0009",
+      "state": "delivered",
+      "tracking": "TRK0008",
+      "updated_at": "2026-01-04T00:00:16Z"
+    },
+    {
+      "id": "SHP-0009",
+      "order_id": "ORD-0010",
+      "state": "in_transit",
+      "tracking": "TRK0009",
+      "updated_at": "2026-01-04T00:00:18Z"
+    },
+    {
+      "id": "SHP-0010",
+      "order_id": "ORD-0011",
+      "state": "delivered",
+      "tracking": "TRK0010",
+      "updated_at": "2026-01-04T00:00:20Z"
+    },
+    {
+      "id": "SHP-0011",
+      "order_id": "ORD-0012",
+      "state": "in_transit",
+      "tracking": "TRK0011",
+      "updated_at": "2026-01-04T00:00:22Z"
+    },
+    {
+      "id": "SHP-0200",
+      "order_id": "ORD-0200",
+      "state": "packed",
+      "tracking": "TRK0200",
+      "updated_at": "2026-01-14T00:00:09Z"
+    }
+  ]
+}
